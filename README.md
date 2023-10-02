@@ -26,3 +26,5 @@ Commit -  the building blocks of "save points" within Git's version control
 **Pull** - updats your current local working branch, and all of the remote tracking branches
 **Remote** - the place where your code is stored 
 **Repository** - contain a collection of files of various different versions of a project
+
+Reference List 
