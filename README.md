@@ -21,18 +21,18 @@ Creating Repository: Open a Git Bash terminal and move to the directory where yo
 
 [Glossary]
 
-**Branch** - a copy of a codeline, managed in a version control system and can be combined with the original project; a way to edit a project without directly affecting the main project 
-**Clone** - a command used to an exact create a copy of another application or object 
+- **Branch** - a copy of a codeline, managed in a version control system and can be combined with the original project; a way to edit a project without directly affecting the main project 
+- **Clone** - a command used to an exact create a copy of another application or object 
 Commit -  the building blocks of "save points" within Git's version control 
-**Fetch** - a primary command used to download contents from a remote repository
-**GIT** - an Open Source Distributed Version Control System which means it is a content tracker, used to store content like code due to the features it provides 
-**Github** - a for-profit company that offers a cloud-based Git repository hosting service, making it easuer for people to use Git of version control and collaboration 
-**Merge** - combines multiple sequences of commits into one unified history;used to combine two branches
-**Merge Conflict** - a problem that arises during merging
-**Push** - uploads all local branch commits to the corresponding remote branch updating the remote branch with local commits 
-**Pull** - updats your current local working branch, and all of the remote tracking branches
-**Remote** - the place where your code is stored 
-**Repository** - contain a collection of files of various different versions of a project
+- **Fetch** - a primary command used to download contents from a remote repository
+- **GIT** - an Open Source Distributed Version Control System which means it is a content tracker, used to store content like code due to the features it provides 
+- **Github** - a for-profit company that offers a cloud-based Git repository hosting service, making it easuer for people to use Git of version control and collaboration 
+- **Merge** - combines multiple sequences of commits into one unified history;used to combine two branches
+- **Merge Conflict** - a problem that arises during merging
+- **Push** - uploads all local branch commits to the corresponding remote branch updating the remote branch with local commits 
+- **Pull** - updats your current local working branch, and all of the remote tracking branches
+- **Remote** - the place where your code is stored 
+- **Repository** - contain a collection of files of various different versions of a project
 
 *Reference List*:
 
