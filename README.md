@@ -18,9 +18,9 @@ Commit -  the building blocks of "save points" within Git's version control
 **Fetch** - a primary command used to download contents from a remote repository
 **GIT** - an Open Source Distributed Version Control System which means it is a content tracker, used to store content like code due to the features it provides 
 **Github** - a for-profit company that offers a cloud-based Git repository hosting service, making it easuer for people to use Git of version control and collaboration 
-**Merge** - 
-**Merge Conflict**
-**Push**
-**Pull**
-**Remote**
-**Repository**
+**Merge** - combines multiple sequences of commits into one unified history;used to combine two branches
+**Merge Conflict** - a problem that arises during merging
+**Push** - uploads all local branch commits to the corresponding remote branch updating the remote branch with local commits 
+**Pull** - updats your current local working branch, and all of the remote tracking branches
+**Remote** - the place where your code is stored 
+**Repository** - contain a collection of files of various different versions of a project
