@@ -11,9 +11,16 @@ Once you launch WebStorm, you will see the Welcome screen, the starting point to
 In this window, you will see the [Editor] where you read, create, and modify your code, menus and toolbars, a navigation bar, a status bar, and a number of WebStorm tool windows.
 The WebStorm tool windows are attached to the bottom and to the sides of your workspace and let you debug your code, run tests, interact with your version control system, etc.
 
-Gihub
+**How to use Git:** 
+1. install Git  (here)[https://git-scm.com/downloads] and create a Github account
+
+Creating Repository: Open a Git Bash terminal and move to the directory where you want to keep the project on your local machine
+- create a Git repository in the selected folder by running the **git int** command ( git int [repository name] )
+
+
 
 [Glossary]
+
 **Branch** - a copy of a codeline, managed in a version control system and can be combined with the original project; a way to edit a project without directly affecting the main project 
 **Clone** - a command used to an exact create a copy of another application or object 
 Commit -  the building blocks of "save points" within Git's version control 
@@ -27,9 +34,10 @@ Commit -  the building blocks of "save points" within Git's version control
 **Remote** - the place where your code is stored 
 **Repository** - contain a collection of files of various different versions of a project
 
-Reference List:
+*Reference List*:
 
-https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_find_your_way_through_find_symbol_by_name
+[https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_find_your_way_through_find_symbol_by_name]
 
-https://www.atlassian.com/git/tutorials/syncing
+[https://www.atlassian.com/git/tutorials/syncing]
 
+[https://phoenixnap.com/kb/how-to-use-git]
