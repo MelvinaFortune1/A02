@@ -27,4 +27,9 @@ Commit -  the building blocks of "save points" within Git's version control
 **Remote** - the place where your code is stored 
 **Repository** - contain a collection of files of various different versions of a project
 
-Reference List 
+Reference List:
+
+https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_find_your_way_through_find_symbol_by_name
+
+https://www.atlassian.com/git/tutorials/syncing
+
