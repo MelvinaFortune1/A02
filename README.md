@@ -19,7 +19,7 @@ Creating Repository: Open a Git Bash terminal and move to the directory where yo
 
 Once you have navigated to the correct folder, you can initialize Git on that folder and now youve just created yur first git repository!
 
-**Connecting to Github** 
+**Connecting to Github** :
 To connect to a GitHub repository from Git, you will need to authenticate with GitHub using either HTTPS or SSH.
 Connecting over HTTPS, you can cache your Github credentials in Git using a credential helper or via cloning.
 The https:// clone URLs are available on all repositories, regardless of visibility. https:// clone URLs work even if you are behind a firewall or proxy.
