@@ -23,6 +23,7 @@ Once you have navigated to the correct folder, you can initialize Git on that fo
 To connect to a GitHub repository from Git, you will need to authenticate with GitHub using either HTTPS or SSH.
 Connecting over HTTPS, you can cache your Github credentials in Git using a credential helper or via cloning.
 The https:// clone URLs are available on all repositories, regardless of visibility. https:// clone URLs work even if you are behind a firewall or proxy.
+
 [Glossary]
 
 - **Branch** - a copy of a codeline, managed in a version control system and can be combined with the original project; a way to edit a project without directly affecting the main project 
