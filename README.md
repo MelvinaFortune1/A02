@@ -17,13 +17,17 @@ The WebStorm tool windows are attached to the bottom and to the sides of your wo
 Creating Repository: Open a Git Bash terminal and move to the directory where you want to keep the project on your local machine
 - create a Git repository in the selected folder by running the **git int** command ( git int [repository name] )
 
+Once you have navigated to the correct folder, you can initialize Git on that folder and now youve just created yur first git repository!
 
-
+**Connecting to Github** 
+To connect to a GitHub repository from Git, you will need to authenticate with GitHub using either HTTPS or SSH.
+Connecting over HTTPS, you can cache your Github credentials in Git using a credential helper or via cloning.
+The https:// clone URLs are available on all repositories, regardless of visibility. https:// clone URLs work even if you are behind a firewall or proxy.
 [Glossary]
 
 - **Branch** - a copy of a codeline, managed in a version control system and can be combined with the original project; a way to edit a project without directly affecting the main project 
 - **Clone** - a command used to an exact create a copy of another application or object 
-Commit -  the building blocks of "save points" within Git's version control 
+**Commit** -  the building blocks of "save points" within Git's version control 
 - **Fetch** - a primary command used to download contents from a remote repository
 - **GIT** - an Open Source Distributed Version Control System which means it is a content tracker, used to store content like code due to the features it provides 
 - **Github** - a for-profit company that offers a cloud-based Git repository hosting service, making it easuer for people to use Git of version control and collaboration 
@@ -39,5 +43,6 @@ Commit -  the building blocks of "save points" within Git's version control
 [https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_find_your_way_through_find_symbol_by_name]
 
 [https://www.atlassian.com/git/tutorials/syncing]
+[https://www.w3schools.com/git/git_getstarted.asp]
 
 [https://phoenixnap.com/kb/how-to-use-git]
